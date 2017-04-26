@@ -1,6 +1,6 @@
 # GitTest
-###Test for git.
-####Git is free software.
-*Hello world.
-*Freedom
-+QQ
+### Test for git.
+#### Git is free software.
+* Hello world.
+* Freedom
++ QQ
