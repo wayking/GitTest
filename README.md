@@ -1,4 +1,5 @@
 # GitTest
-Test for git.
-Git is free software.
-Hello world.
+###Test for git.
+####Git is free software.
+*Hello world.
+*Freedom
